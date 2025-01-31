@@ -13,4 +13,7 @@ Para los usuarios de nivel cliente:
 
 
 
-
+1️⃣ Un usuario se registra en el sistema.
+2️⃣ El usuario reserva una instalación en una fecha y hora específica.
+3️⃣ Puede también inscribirse en una actividad (ej. Fútbol, Yoga).
+4️⃣ Los entrenadores imparten actividades según su especialidad.
