@@ -3,15 +3,13 @@ Bienvenidos a JELZI, un gimnasio centrado en ti.
 
  **Aplicación exclusiva para miembros de JELZI y JELZI CLUB**
 
-AL app se enfoca en ofrecer un servico directo a los miembros activos de nuestros clubs. 
+La app se enfoca en ofrecer un servico directo a los miembros activos de nuestros clubs. Buscamos adaptarnos a ti, por tanto te ofrecemos la libertad de planificar y personalizar tus propias clases, siguiendo el horario más conveniente para ti.
 
 Para los usuarios de nivel cliente:
 -Registrate en la app con tu informaciópn para poder acceder a nuestras instalaciones
 -Acceso libre a nuestras instalaciones y actividades
 -Haz tu reserva de plaza para nuestras actvidades, elige lugar, hora y actividad
 -Accede a los perfiles de los entrenadores y sigue los que más te gustan
-
-
 
 1️⃣ Un usuario se registra en el sistema.
 2️⃣ El usuario reserva una instalación en una fecha y hora específica.
